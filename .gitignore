@@ -1,3 +1,2 @@
-manage.py
-mproject\*.pyc
-blog\*.pyc
+blog/*.pyc
+mproject/*.pyc
